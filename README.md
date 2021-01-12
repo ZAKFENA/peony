@@ -17,6 +17,9 @@ The Dad joke app is a website that allows users to read Dad jokes. The first par
 
 ## Screen-Shots
 ![Screen Shot 1](public/assets/capture-1.PNG)
+![Screen Shot 2](public/assets/capture-2.PNG)
+![Screen Shot 3](public/assets/capture-3.PNG)
+![Screen Shot 4](public/assets/capture-4.PNG)
 
 
 ## Technology-Used
